@@ -1,0 +1,10 @@
+{
+  "name": "research-assistant",
+  "version": "1.0.0",
+  "description": "Academic Research Assistant - Paper search, summarization, citation management",
+  "author": "SKY-lv",
+  "license": "MIT",
+  "keywords": ["research", "academic", "papers", "arxiv", "ai-agent", "openclaw"],
+  "repository": "https://github.com/SKY-lv/research-assistant",
+  "main": "SKILL.md"
+}
